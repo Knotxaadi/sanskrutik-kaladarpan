@@ -61,7 +61,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/sanskrutikkaladarapn/?hl=en"
+                    href="https://www.facebook.com/profile.php?id=100090779630128"
                     target="_blank"
                   >
                     <i className="fa-brands fa-facebook fa-2x max-sm:fa-1x text-[#f0d3a2] hover:text-[#36b5ff]"></i>
@@ -69,7 +69,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/sanskrutikkaladarapn/?hl=en"
+                    href="https://youtube.com/@sanskrutikkaladarpan6270?si=qnpk1L3QcitgWkA1"
                     target="_blank"
                   >
                     <i className="fa-brands fa-youtube fa-2x max-sm:fa-1x text-[#f0d3a2] hover:text-[#d30000]"></i>
