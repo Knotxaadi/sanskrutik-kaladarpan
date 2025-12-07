@@ -36,7 +36,7 @@ const Registration = () => {
             </div>
 
             <div className="pdfs flex flex-wrap justify-center items-start gap-5 m-5">
-              {pdf.map((id, i) => (
+              {/* {pdf.map((id, i) => (
                 <div className="pdf w-60 max-md:w-50 relative" key={i}>
                   <iframe src={id.pdf} className="w-full h-56 sm:h-60"></iframe>
                   <a
@@ -51,7 +51,8 @@ const Registration = () => {
                     <i className="fa-solid fa-download"></i>
                   </a>
                 </div>
-              ))}
+              ))} */}
+              <h1 className="text-5xl font-bold text-white">Coming Soon!</h1>
             </div>
           </div>
         </div>

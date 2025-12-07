@@ -18,13 +18,13 @@ const Work = () => {
       id: 5,
       img: w2,
       header: "Drama Festival",
-      para: "Showing Top-10 Drama shows for less price",
+      para: "Showing Top-10 Drama shows",
     },
     {
       id: 6,
       img: w3,
       header: "Moive Festival",
-      para: "Showing Top-10 Drama shows for less price",
+      para: "Showing Top-10 Drama shows",
     },
     {
       id: 2,
