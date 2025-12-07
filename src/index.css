@@ -13,7 +13,7 @@ body {
   overflow-x: hidden;
 }
 .Navbar {
-  background-image: url(./src/assets/main-img/nav-bg.png);
+  background-image: url(./assets/main-img/nav-bg.png);
   background-position: center center;
   background-size: 30vh;
   background-blend-mode: soft-light;

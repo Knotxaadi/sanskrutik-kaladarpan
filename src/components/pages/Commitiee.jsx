@@ -17,6 +17,9 @@ import jyoti_sandve from "../../assets/comittie-second/jyoti_sandve.jpeg";
 import datta_javalge from "../../assets/comittie-second/datta_javalge.jpeg";
 import padmakar_gandhi from "../../assets/comittie-second/padmakar_gandhi.jpeg";
 
+import frame1 from "../../assets/main-img/frame1.png";
+import frame2 from "../../assets/main-img/frame2.png";
+
 const names = [
   {
     name: "Sunil Khedekar",
@@ -115,7 +118,7 @@ const Commitiee = () => {
                   />
                   <img
                     className="absolute top-0 left-0 w-full h-full object-contain pointer-events-none drop-shadow-[0_0_10px_rgba(255,215,0,0.8)]"
-                    src="./src/assets/main-img/frame1.png"
+                    src={frame1}
                     alt=""
                   />
                 </div>
@@ -146,7 +149,7 @@ const Commitiee = () => {
                         />
                         <img
                           className="absolute top-0 left-0 w-full h-full object-contain pointer-events-none drop-shadow-[0_0_10px_rgba(255,215,0,0.8)]"
-                          src="./src/assets/main-img/frame2.png"
+                          src={frame2}
                           alt=""
                         />
                       </div>
@@ -176,7 +179,7 @@ const Commitiee = () => {
                         />
                         <img
                           className="absolute top-0 left-0 w-full h-full object-contain pointer-events-none drop-shadow-[0_0_10px_rgba(255,215,0,0.8)]"
-                          src="./src/assets/main-img/frame2.png"
+                          src={frame2}
                           alt=""
                         />
                       </div>
