@@ -4,7 +4,7 @@ import chandrashekar_sandve from "../../assets/comittie-main/chandrashekar_sandv
 import sunil_khedekar from "../../assets/comittie-main/sunil_khedekar.jpeg";
 import tanmay_sandve from "../../assets/comittie-main/tanmay_sandve.jpeg";
 import sudhir_somwanshi from "../../assets/comittie-main/sudhir_somwanshi.jpeg";
-import Sarvesh_Sandve from "../../assets/comittie-main/Sarvesh_Sandve.jpeg";
+import Sarvesh_Sandve from "../../assets/comittie-main/sarvesh_sandve.jpeg";
 import vikas_mojar from "../../assets/comittie-main/vikas_mojar.jpeg";
 import sekhar_lad from "../../assets/comittie-main/sekhar_lad.jpeg";
 
