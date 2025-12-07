@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Crimson Text", cursive;
+  background-image: url(./assets/main-img/bg-img.svg);
+  width: 100%;
+  min-height: 100vh;
+  background-position: center center;
+  background-size: 90vh;
+  overflow-x: hidden;
+}
+.Navbar {
+  background-image: url(./src/assets/main-img/nav-bg.png);
+  background-position: center center;
+  background-size: 30vh;
+  background-blend-mode: soft-light;
+  box-shadow: 1px 0px 30px #f1cb4b;
+}
+
+@media (max-width: 624px) {
+  body {
+    background-size: 60vh;
+  }
+}

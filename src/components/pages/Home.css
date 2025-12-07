@@ -1,0 +1,28 @@
+.Home {
+  box-shadow: 2px 2px 30px #2c0c0c;
+}
+.imagee {
+  filter: drop-shadow(-1px 10px 60px rgba(255, 215, 0, 0.8));
+}
+.imagee:hover {
+  filter: drop-shadow(-1px 10px 30px rgba(255, 215, 0, 0.8));
+}
+.word-space{
+  word-spacing: 5px;
+}
+@media (max-width: 792px) {
+  .heading {
+    font-size: 35px;
+  }
+  .heading-text {
+    font-size: 20px;
+  }
+  /* .Home {
+    justify-content: center;
+  } */
+}
+@media (max-width: 490px) {
+  .imagee {
+    height: 40vh;
+  }
+}

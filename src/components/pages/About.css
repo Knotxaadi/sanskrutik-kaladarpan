@@ -1,0 +1,8 @@
+.about-sec {
+  background-image: url(../assets/main-img/abstract-pattern-design.png);
+  background-position: center center;
+  background-size: 70vh;
+  background-blend-mode: hard-light;
+  backdrop-filter: blur(3px);
+  box-shadow: 0px 0px 10px black;
+}
