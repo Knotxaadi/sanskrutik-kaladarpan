@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 import CurvedLoop from "./Curved";
 import { Link } from "react-router-dom";
-import award from "/src/assets/main-img/skd logoo.png";
+import award from "../../assets/main-img/skd logoo.png";
 
 const Home = () => {
   return (

@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
-import namelogo from "/src/assets/main-img/skd name.png";
-import logo from "/src/assets/main-img/skd logoo.png";
+import namelogo from "../../assets/main-img/skd name.png";
+import logo from "../../assets/main-img/skd logoo.png";
 
 const Footer = () => {
   return (

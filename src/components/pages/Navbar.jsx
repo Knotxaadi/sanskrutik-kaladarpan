@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
-import navlogo from "/src/assets/main-img/skd name (1).png";
+import navlogo from "../../assets/main-img/skd name (1).png";
 
 const Navbar = () => {
   const [cls, SetCls] = useState("translate-x-170");

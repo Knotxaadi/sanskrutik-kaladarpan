@@ -1,9 +1,9 @@
 import React from "react";
-import w1 from "/src/assets/work/award-ceremony.jpeg";
-import w2 from "/src/assets/work/drama-fest.jpeg";
-import w3 from "/src/assets/work/movie-fest.jpeg";
+import w1 from "../../assets/work/award-ceremony.jpeg";
+import w2 from "../../assets/work/drama-fest.jpeg";
+import w3 from "../../assets/work/movie-fest.jpeg";
 // import w4 from "/src/assets/work/award-ceremony.jpeg";
-import w5 from "/src/assets/work/inter-school.jpeg";
+import w5 from "../../assets/work/inter-school.jpeg";
 // import w6 from "/src/assets/work/0G7A2232.jpg";
 
 const Work = () => {

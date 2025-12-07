@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react";
-import s1 from "/src/assets/show-case/1.jpeg";
-import s2 from "/src/assets/show-case/2.jpeg";
-import s3 from "/src/assets/show-case/3.jpeg";
-import s4 from "/src/assets/show-case/4.jpeg";
-import s5 from "/src/assets/show-case/5.jpeg";
-import s6 from "/src/assets/show-case/6.jpeg";
-import s7 from "/src/assets/show-case/7.jpeg";
-import s8 from "/src/assets/show-case/8.jpeg";
-import vid from "/src/assets/main-img/vid1.mp4";
+import s1 from "../../assets/show-case/1.jpeg";
+import s2 from "../../assets/show-case/2.jpeg";
+import s3 from "../../assets/show-case/3.jpeg";
+import s4 from "../../assets/show-case/4.jpeg";
+import s5 from "../../assets/show-case/5.jpeg";
+import s6 from "../../assets/show-case/6.jpeg";
+import s7 from "../../assets/show-case/7.jpeg";
+import s8 from "../../assets/show-case/8.jpeg";
+import vid from "../../assets/main-img/vid1.mp4";
 
 const ImageSlider = () => {
   const images = [s1, s2, s3, s4, s5, s6, s7, s8];

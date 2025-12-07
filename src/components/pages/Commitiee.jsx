@@ -1,21 +1,21 @@
 import React from "react";
-import chandrashekar_sandve from "/src/assets/comittie-main/chandrashekar_sandve.jpeg";
+import chandrashekar_sandve from "../../assets/comittie-main/chandrashekar_sandve.jpeg";
 
-import sunil_khedekar from "/src/assets/comittie-main/sunil_khedekar.jpeg";
-import tanmay_sandve from "/src/assets/comittie-main/tanmay_sandve.jpeg";
-import sudhir_somwanshi from "/src/assets/comittie-main/sudhir_somwanshi.jpeg";
-import Sarvesh_Sandve from "/src/assets/comittie-main/Sarvesh_Sandve.jpeg";
-import vikas_mojar from "/src/assets/comittie-main/vikas_mojar.jpeg";
-import sekhar_lad from "/src/assets/comittie-main/sekhar_lad.jpeg";
+import sunil_khedekar from "../../assets/comittie-main/sunil_khedekar.jpeg";
+import tanmay_sandve from "../../assets/comittie-main/tanmay_sandve.jpeg";
+import sudhir_somwanshi from "../../assets/comittie-main/sudhir_somwanshi.jpeg";
+import Sarvesh_Sandve from "../../assets/comittie-main/Sarvesh_Sandve.jpeg";
+import vikas_mojar from "../../assets/comittie-main/vikas_mojar.jpeg";
+import sekhar_lad from "../../assets/comittie-main/sekhar_lad.jpeg";
 
-import nikhil_malusare from "/src/assets/comittie-second/nikhil_malusare.jpg";
-import pradip_sale from "/src/assets/comittie-second/pradip_sale.jpeg";
-import shashank_somwanshi from "/src/assets/comittie-second/shashank_somwanshi.jpeg";
-import santosh_pote from "/src/assets/comittie-second/santosh_pote.jpeg";
-import shivaji_chavan from "/src/assets/comittie-second/shivaji_chavan.jpeg";
-import jyoti_sandve from "/src/assets/comittie-second/jyoti_sandve.jpeg";
-import datta_javalge from "/src/assets/comittie-second/datta_javalge.jpeg";
-import padmakar_gandhi from "/src/assets/comittie-second/padmakar_gandhi.jpeg";
+import nikhil_malusare from "../../assets/comittie-second/nikhil_malusare.jpg";
+import pradip_sale from "../../assets/comittie-second/pradip_sale.jpeg";
+import shashank_somwanshi from "../../assets/comittie-second/shashank_somwanshi.jpeg";
+import santosh_pote from "../../assets/comittie-second/santosh_pote.jpeg";
+import shivaji_chavan from "../../assets/comittie-second/shivaji_chavan.jpeg";
+import jyoti_sandve from "../../assets/comittie-second/jyoti_sandve.jpeg";
+import datta_javalge from "../../assets/comittie-second/datta_javalge.jpeg";
+import padmakar_gandhi from "../../assets/comittie-second/padmakar_gandhi.jpeg";
 
 const names = [
   {
