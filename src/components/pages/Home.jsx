@@ -10,9 +10,9 @@ const Home = () => {
       <div id="Home" className="scroll-mt-24">
         <div className="Home h-[86vh] p-2 m-3 bg-[#3A1F44]/90 backdrop-blur-[1px] rounded-3xl  relative overflow-hidden">
           {/* Put marquee INSIDE the box */}
-          <div className="absolute flex justify-center flex-col  h-full top-0 left-0 w-full pointer-events-none">
+          <div className="absolute flex justify-center flex-col  h-full top-2 left-0 w-full pointer-events-none">
             <CurvedLoop
-              marqueeText="Sanskrutik Kaladarpan ✦"
+              marqueeText="Sanskrutik Kaladarpan ✦ संस्कृतिक कलादर्पण ✦"
               speed={2}
               curveAmount={0}
               direction="right"
@@ -21,7 +21,7 @@ const Home = () => {
               Divclass="items-start"
             />
             <CurvedLoop
-              marqueeText="Sanskrutik Kaladarpan ✦"
+              marqueeText="Sanskrutik Kaladarpan ✦ संस्कृतिक कलादर्पण ✦"
               speed={2}
               curveAmount={0}
               direction="left"

@@ -18,7 +18,7 @@ const About = () => {
           <div className="about-content flex justify-center gap-5 items-center max-md:flex-col">
             <div className="ab-content-text md:w-[55%]">
               <p className="text-[#FFD37D] text-2xl max-md:text-2xl max-sm:text-[14px] text-shadow-blue-400">
-                For 27 memorable years,
+                For 28 memorable years,
                 <big>
                   {" "}
                   <b className="text-white">Sanskrutik Kaladarpan</b>

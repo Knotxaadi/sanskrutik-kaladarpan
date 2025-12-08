@@ -24,7 +24,7 @@ const Work = () => {
       id: 6,
       img: w3,
       header: "Moive Festival",
-      para: "Showing Top-10 Drama shows",
+      para: "Showing Top-10 Moives",
     },
     {
       id: 2,
