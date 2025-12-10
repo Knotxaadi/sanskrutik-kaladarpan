@@ -4,20 +4,20 @@ import Footer from "./Footer";
 
 const pdf = [
   {
-    pdf: "../Form/sample_pds.pdf",
-    name: "Short Flim",
-  },
-  {
-    pdf: "../Form/sample_pds.pdf",
+    pdf: "../SKD-forms/movie.pdf",
     name: "Movie",
   },
   {
-    pdf: "../Form/sample_pds.pdf",
-    name: "TV Serial",
+    pdf: "../SKD-forms/drama.pdf",
+    name: "Drama",
   },
   {
-    pdf: "../Form/sample_pds.pdf",
-    name: "Drama",
+    pdf: "../SKD-forms/tv-serial.pdf",
+    name: "Tv Serial",
+  },
+  {
+    pdf: "../SKD-forms/short-film.pdf",
+    name: "Short Flim",
   },
 ];
 
@@ -36,14 +36,14 @@ const Registration = () => {
             </div>
 
             <div className="pdfs flex flex-wrap justify-center items-start gap-5 m-5">
-              {/* {pdf.map((id, i) => (
+              {pdf.map((id, i) => (
                 <div className="pdf w-60 max-md:w-50 relative" key={i}>
                   <iframe src={id.pdf} className="w-full h-56 sm:h-60"></iframe>
                   <a
                     href={id.pdf}
                     target="_blank"
                     download
-                    className="w-full flex justify-between p-4 bg-[#941494]/90 
+                    className="w-full flex justify-between p-3 bg-[#941494]/70 
                        backdrop-blur-[1px] text-[gold]  text-2xl 
                        absolute bottom-0 left-0"
                   >
@@ -51,8 +51,7 @@ const Registration = () => {
                     <i className="fa-solid fa-download"></i>
                   </a>
                 </div>
-              ))} */}
-              <h1 className="text-5xl font-bold text-white">Coming Soon!</h1>
+              ))}
             </div>
           </div>
         </div>
