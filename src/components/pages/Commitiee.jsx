@@ -55,7 +55,7 @@ const names = [
 const names_2 = [
   {
     name: "Nikhil Malusare",
-    position: "Media Head",
+    position: "Social Media Head",
     src: nikhil_malusare,
   },
   {
